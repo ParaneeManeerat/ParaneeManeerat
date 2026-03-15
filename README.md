@@ -1,8 +1,7 @@
 ## ੈ✩‧₊˚ 🪐 Hi there! I'm Paranee — .👋
 I'm a self-taught passionate 3D Modeler from Thailand 
 
-✎ ̼ 𓂃
-## About me
+## ✎ ̼ 𓂃About me
 ⚡︎ I’m currently completing my internship as a 3D Artist at Burapha University.  
 ⚡︎ I’m currently learning Front-End Web Development, User Interface and User Experience, System Analysis and Designs.  
 ⚡︎ 3D Model  
