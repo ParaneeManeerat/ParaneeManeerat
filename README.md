@@ -5,10 +5,11 @@ I'm a self-taught passionate 3D Modeler from Thailand
 ## About me
 ⚡︎ I’m currently completing my internship as a 3D Artist at Burapha University.
 
+⚡︎ 3D Model
 
-
-- VR Project
-— https://drive.google.com/drive/folders/1eWglFRF0MsgiTeTbhnmbMpCQiUV8VR59?usp=sharing
+⚡︎ VR Project
+— VR High Voltage Safety : https://drive.google.com/drive/folders/1ru_sCybcfMANnH5SdkYzMQpP3IJsxv27?usp=sharing
+— Strawberry Farm VR : https://drive.google.com/drive/folders/1eWglFRF0MsgiTeTbhnmbMpCQiUV8VR59?usp=sharing
 
 <!--
 **ParaneeManeerat/ParaneeManeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
