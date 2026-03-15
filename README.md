@@ -1,5 +1,14 @@
-## Hi there 👋
-This file contain
+## ੈ✩‧₊˚ 🪐 Hi there! I'm Paranee — .👋
+I'm a self-taught passionate 3D Modeler from Thailand 
+
+✎ ̼ 𓂃
+## About me
+⚡︎ I’m currently completing my internship as a 3D Artist at Burapha University.
+
+
+
+- VR Project
+— https://drive.google.com/drive/folders/1eWglFRF0MsgiTeTbhnmbMpCQiUV8VR59?usp=sharing
 
 <!--
 **ParaneeManeerat/ParaneeManeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
