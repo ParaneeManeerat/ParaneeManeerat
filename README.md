@@ -3,7 +3,11 @@ I'm a self-taught passionate 3D Modeler from Thailand
 
 ## ✎ ̼ 𓂃About me
 ⚡︎ I’m currently completing my internship as a 3D Artist at Burapha University.  
-⚡︎ I’m currently learning Front-End Web Development, User Interface and User Experience, System Analysis and Designs.  
+⚡︎ I’m currently learning Front-End Web Development, User Interface and User Experience, System Analysis and Designs. 
+⚡︎ UXUI Design
+— https://www.figma.com/design/NKbhzwUfr0OXdJGnNlbjee/Cash-Book?node-id=0-1&p=f&t=2GBRALFEM83jxyQy-0
+— https://www.figma.com/design/cNiOYCsrm88Njgy62fYcr0/Lamer-Pet-Shop?node-id=200-1449&p=f&t=krdlVbCqzTMt7GRU-0
+— https://www.figma.com/design/tfoTyaS20Jr9EQOzOH5jNs/jewelry?node-id=0-1&p=f&t=aU2uiQGDdBKNx7sQ-0
 ⚡︎ 3D Model  
 — Model : [ParaneeManeerat.github.io  ](https://paraneemaneerat.github.io/)  
 ⚡︎ VR Project  
