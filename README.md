@@ -15,7 +15,10 @@ I'm a self-taught passionate 3D Modeler from Thailand
 — VR High Voltage Safety :  https://drive.google.com/drive/folders/1ru_sCybcfMANnH5SdkYzMQpP3IJsxv27?usp=sharing  
 — Strawberry Farm VR : https://drive.google.com/drive/folders/1eWglFRF0MsgiTeTbhnmbMpCQiUV8VR59?usp=sharing  
 ⚡︎ System Analysis & Design  
-— https://drive.google.com/file/d/182LzQcLZQgyDtmMG-jT9FGvqr6Re5baw/view?usp=sharing
+— https://drive.google.com/file/d/182LzQcLZQgyDtmMG-jT9FGvqr6Re5baw/view?usp=sharing    
+
+## ✎ ̼ 𓂃Contact for work
+— paraneemaneerat@gmail.com
 <!--
 **ParaneeManeerat/ParaneeManeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
